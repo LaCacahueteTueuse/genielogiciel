@@ -1,0 +1,58 @@
+\documentclass[a4paper]{article}
+
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fullpage}
+\usepackage{pgf}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{positioning}
+
+\begin{document}
+
+\title{Implémentation de l'algorithme de Strassen}
+\author{Christophe Cordero et Antonin Delpeuch}
+\date{\today}
+
+\maketitle
+
+\section{Arithmétique}
+
+Les coefficients de nos matrices sont des entiers machines : des problèmes de débordement ont donc lieu.
+On fait donc nos calculs modulo une constante \texttt{MATRIX_MOD}.
+Si cette constante est trop petite et que la précision des entiers machine ne permet pas de la dépasser,
+on peut changer la taille des entiers manipulés en changeant une ligne dans \texttt{matrix.h} :
+\begin{verbatim}
+typedef int matval;
+\end{verbatim}
+
+\section{Algorithme de Strassen}
+
+
+\section{Multiplication optimale d'une chaîne de matrices}
+
+L'algorithme se déroule en deux étapes :
+\begin{itemize}
+    \item On calcule d'abord le coût des sous-produits avec l'algorithme dynamique.
+        Le découpage optimal est conservé dans un tableau.
+    \item On calcule les produits avec l'algorithme de Strassen en utilisant le découpage calculé.
+\end{itemize}
+
+\paragraph{Note} Le calcul du coût est réalisé en supposant que faire le produit de matrices
+$M \in \mathcal{M}_{n,k}$ et $N \in \mathcal{M}_{k,m}$ est $nkm$, or on utilise l'algorithme de Strassen,
+donc il se peut que la solution calculée ne soit pas la solution optimale.
+
+Il faudrait donc faire nos calculs de coût en flottants et rajouter un exposant $\log_2(7)$, ce qui a un coût important.
+Nous avons donc décidé de garder le calcul de coût tel quel, car il donne une bonne approximation.
+
+TODO : trouver un exemple avec lequel la solution trouvée est sous-optimale.
+
+\section{Interface}
+
+Multiplication paresseuse ?
+cf boost
+
+\end{document}
+
+
