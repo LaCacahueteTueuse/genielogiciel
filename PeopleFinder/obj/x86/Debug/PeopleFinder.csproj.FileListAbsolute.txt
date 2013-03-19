@@ -9,3 +9,7 @@ C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Debug\nunit.framework.xml
 C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\obj\x86\Debug\PeopleFinder.csprojResolveAssemblyReference.cache
 C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\obj\x86\Debug\PeopleFinder.exe
 C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\obj\x86\Debug\PeopleFinder.pdb
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\PeopleFinder.exe.config
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\obj\x86\Debug\PeopleFinder.exe
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\obj\x86\Debug\PeopleFinder.pdb
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\obj\x86\Debug\PeopleFinder.csprojResolveAssemblyReference.cache

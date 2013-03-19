@@ -16,6 +16,7 @@ namespace PeopleFinder
             if (_people != null) return _people;
 
             _people = new List<Person>
+
             {
                 new Person {FirstName = "John", LastName = "Doe"},
                 new Person {FirstName = "Jane", LastName = "Doe"},
