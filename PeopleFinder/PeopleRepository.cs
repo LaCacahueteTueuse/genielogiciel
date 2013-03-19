@@ -5,6 +5,7 @@ namespace PeopleFinder
     public interface IRepository<out T> where T : DomainObject
     {
         IEnumerable<T> GetAll();
+
     }
 
     public class PersonRepository : IRepository<Person>
@@ -22,7 +23,7 @@ namespace PeopleFinder
                 new Person {FirstName = "Jane", LastName = "Doe"},
                 new Person {FirstName = "John", LastName = "Smith"},
                 new Person {FirstName = "Matthew", LastName = "MacDonald"},
-                new Person {FirstName = "Andrew", LastName = "MacDonald"}
+                new Person {FirstName = "Andrew", LastName = "MacDonald"
             };
 
             return _people;

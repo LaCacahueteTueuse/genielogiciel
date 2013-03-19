@@ -13,3 +13,10 @@ C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\PeopleF
 C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\obj\x86\Debug\PeopleFinder.exe
 C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\obj\x86\Debug\PeopleFinder.pdb
 C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\obj\x86\Debug\PeopleFinder.csprojResolveAssemblyReference.cache
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\PeopleFinder.exe
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\PeopleFinder.pdb
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\Moq.dll
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\nunit.framework.dll
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\Moq.pdb
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\Moq.xml
+C:\Users\Napoléon\Documents\GitHub\genielogiciel\PeopleFinder\bin\Debug\nunit.framework.xml
