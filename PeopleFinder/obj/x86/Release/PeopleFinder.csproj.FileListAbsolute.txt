@@ -1,0 +1,10 @@
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\PeopleFinder.exe.config
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\PeopleFinder.exe
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\PeopleFinder.pdb
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\Moq.dll
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\nunit.framework.dll
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\Moq.pdb
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\Moq.xml
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\bin\Release\nunit.framework.xml
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\obj\x86\Release\PeopleFinder.exe
+C:\Users\Napoléon\Desktop\TeamCity\PeopleFinder\obj\x86\Release\PeopleFinder.pdb
