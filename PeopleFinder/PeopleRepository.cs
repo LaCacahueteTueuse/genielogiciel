@@ -23,7 +23,7 @@ namespace PeopleFinder
                 new Person {FirstName = "Jane", LastName = "Doe"},
                 new Person {FirstName = "John", LastName = "Smith"},
                 new Person {FirstName = "Matthew", LastName = "MacDonald"},
-                new Person {FirstName = "James", LastName = "MacDonald"}
+                new Person {FirstName = "Jean", LastName = "MacDonald"}
             };
 
             return _people;
